@@ -1,0 +1,24 @@
+[
+  {
+    "sku": "emote_wave",
+    "title": "Wave Emote",
+    "type": "emote",
+    "price_cents": 199,
+    "rarity": "common",
+    "asset": {
+      "model_url": "./assets/cosmetics/models/wave.glb",
+      "thumbnail": "./assets/cosmetics/thumbnails/wave.png"
+    }
+  },
+  {
+    "sku": "pet_cube",
+    "title": "Mini Cube Pet",
+    "type": "pet",
+    "price_cents": 199,
+    "rarity": "common",
+    "asset": {
+      "model_url": "./assets/cosmetics/models/cube_pet.glb",
+      "thumbnail": "./assets/cosmetics/thumbnails/cube_pet.png"
+    }
+  }
+]
