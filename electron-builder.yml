@@ -1,0 +1,15 @@
+appId: com.nebula.client
+productName: Nebula Client
+directories:
+  output: dist
+files:
+  - "**/*"
+win:
+  target:
+    - nsis
+mac:
+  target:
+    - dmg
+linux:
+  target:
+    - AppImage
